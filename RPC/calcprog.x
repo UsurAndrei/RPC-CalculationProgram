@@ -28,4 +28,4 @@ program CALC_PROG {
         returnData2 calcMaxMin(clientData2) = 2;
         returnData3 calcMult(clientData3) = 3;
     } = 1;
-} = 0x23451111; 
+} = 0x23451111;
